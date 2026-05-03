@@ -1,4 +1,4 @@
-package com.example.financeapp // შეცვალეთ თქვენი პაკეტის სახელით
+package com.example.financeapp 
 
 import java.io.Serializable
 
